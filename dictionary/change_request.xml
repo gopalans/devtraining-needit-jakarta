@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="hasWorkflow=true,live_feed=true" audit="true" extends="task" label="Change Request" max_length="40" name="change_request" sizeclass="98" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Expected Impact to Production Services during Implementation of the Change" max_length="1000" name="x_58872_needit_expected_impact_to_production_services_during_implementation_of_t" type="string"/>
+    </element>
+</database>
